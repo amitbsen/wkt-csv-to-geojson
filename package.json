@@ -1,6 +1,6 @@
 {
   "name": "wkt-csv-to-geojson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library converts a CSV of WKT strings into GeoJSON.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
